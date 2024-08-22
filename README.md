@@ -2,8 +2,8 @@
 Data analysis project for HR-Analytics
 <br>
 1. Project Setup (Day 1)
-Task: Set up your project environment.
 <br>
+Task: Set up your project environment.
 Actions:
 <p>
 Create a new Git repository on GitHub.
