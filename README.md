@@ -7,7 +7,7 @@ Actions:
 <p>
 Create a new Git repository on GitHub.
 Clone the repository to your local machine.
-Create a README.md file with a brief project description and objectives.
+Create a README.md file with a brief project description and objectives.<br>
 Goal: Ensure your project is well-organized from the start.
 
 </p>
