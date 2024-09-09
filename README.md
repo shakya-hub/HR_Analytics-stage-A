@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HR Data Analytics Project</title>
+<title>HR Data Analytics Project</title>
 </head>
 <body>
     <h1>HR Data Analytics Project</h1>
