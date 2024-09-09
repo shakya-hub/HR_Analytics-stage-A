@@ -1,35 +1,78 @@
 # HR_Analytics-stage-A
-Data analysis project for HR-Analytics
-1. Project Setup (Day 1)
-<br>
-Task: Set up your project environment.<br>
-Actions:
-<p>
-Create a new Git repository on GitHub.
-Clone the repository to your local machine.
-Create a README.md file with a brief project description and objectives.<br>
-Goal: Ensure your project is well-organized from the start.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Data Analytics Project</title>
+</head>
+<body>
+    <h1>HR Data Analytics Project</h1>
+    <p><strong>Objective:</strong> Analyze HR data to enhance recruitment processes, improve employee retention, and optimize workforce management.</p>
 
-</p>
-Data Collection (Day 2-4)<br>
-Task: Gather and organize HR data from various sources.
-Actions:
-<p>
-  Identify and list all the data sources (HR systems, employee surveys, etc.).
-Collect employee demographics, recruitment metrics, performance evaluations, attendance records, compensation details, and turnover rates.
-Store the collected data in your project’s data folder.
-Document the data sources and any assumptions in a separate file (e.g., data_sources.md).
-Goal: Have all the necessary data in place for further processing.
+  <h2>Project Overview</h2>
+    <p>This project is designed to apply data analytics techniques to HR data in order to identify key trends and areas for improvement within an organization.</p>
 
-</p>
-3. Data Preprocessing: Initial Steps (Day 5-6)<br>
-Task: Begin cleaning the data.
-Actions:
-<p>
-  Identify missing values and decide on a strategy to handle them (e.g., imputation or removal).
-Correct any data inconsistencies (e.g., different date formats, typos in categorical data).
-Standardize data formats across all datasets (e.g., date formats, text capitalization).
-Goal: Start preparing your data for analysis by ensuring it's clean and consistent.
-</p>
+  <h2>Tools Used</h2>
+    <ul>
+        <li>Power BI Desktop</li>
+        <li>Python (for data preprocessing, if applicable)</li>
+        <li>Git/GitHub (for version control)</li>
+    </ul>
 
+  <h2>Week-by-Week Progress</h2>
 
+  <h3>Week 1: Data Filtering and Preprocessing</h3>
+    <ul>
+        <li>Filtered HR data based on relevant criteria such as employee demographics, performance, and turnover.</li>
+        <li>Handled missing values and standardized the data format.</li>
+    </ul>
+
+  <h3>Week 2: Creating Measures and Calculations</h3>
+    <ul>
+        <li>Created key measures for analysis, including:
+            <ul>
+                <li>Average Tenure</li>
+                <li>Turnover Rate</li>
+                <li>Recruitment Efficiency</li>
+            </ul>
+        </li>
+        <li>Built DAX measures in Power BI to perform calculations on HR metrics.</li>
+    </ul>
+
+  <h3>Week 3: Dashboard Creation</h3>
+    <ul>
+        <li>Designed and built interactive dashboards in Power BI.</li>
+        <li>Used visualizations like:
+            <ul>
+                <li>Bar charts to display turnover rates across departments.</li>
+                <li>Line charts to analyze recruitment trends over time.</li>
+                <li>Pie charts to represent employee demographics.</li>
+            </ul>
+        </li>
+        <li>Implemented dynamic filtering to allow users to explore HR metrics by department, role, and location.</li>
+    </ul>
+
+  <h2>Key Features</h2>
+    <ul>
+        <li>Data filtering and preprocessing to ensure accuracy.</li>
+        <li>Dynamic measures for key HR metrics.</li>
+        <li>Interactive and user-friendly dashboards to visualize insights.</li>
+    </ul>
+
+    <h2>Installation and Usage</h2>
+    <ol>
+        <li>Clone this repository using the command:
+            <pre><code>git clone https://github.com/yourusername/hr-analytics-project.git</code></pre>
+        </li>
+        <li>Open the Power BI Desktop file in your local environment.</li>
+        <li>Review and interact with the pre-built dashboards.</li>
+    </ol>
+
+    <h2>Contributions</h2>
+    <p>Feel free to contribute to this project by submitting pull requests or reporting issues.</p>
+
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+</body>
+</html>
