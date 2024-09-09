@@ -60,19 +60,6 @@
         <li>Interactive and user-friendly dashboards to visualize insights.</li>
     </ul>
 
-    <h2>Installation and Usage</h2>
-    <ol>
-        <li>Clone this repository using the command:
-            <pre><code>git clone https://github.com/yourusername/hr-analytics-project.git</code></pre>
-        </li>
-        <li>Open the Power BI Desktop file in your local environment.</li>
-        <li>Review and interact with the pre-built dashboards.</li>
-    </ol>
-
-    <h2>Contributions</h2>
-    <p>Feel free to contribute to this project by submitting pull requests or reporting issues.</p>
-
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+    
 </body>
 </html>
